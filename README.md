@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christie92
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming [ frontend developer, software tester, web developer, IT ] 
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me : 
      Gmail : christiegreys@gmail.com
